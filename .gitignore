@@ -1,0 +1,9 @@
+### Ansible template
+*.retry
+
+.env
+*.env
+.envrc
+
+ansible/outputs/
+secrets.yaml
